@@ -1,1 +1,2 @@
-echo "Changing README.md"
+git add --all
+commit -m "Hot to be up to date in git"
